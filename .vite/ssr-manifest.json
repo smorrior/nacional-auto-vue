@@ -1,0 +1,69 @@
+{
+  "\u0000plugin-vue:export-helper": [],
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
+  "../../../../../images/engine2.jpg": [
+    "/assets/HomeView-BHCyREEY.js",
+    "/assets/HomeView-BSLxYgoQ.css"
+  ],
+  "../../../../../images/nacional-auto-logo.png": [],
+  "index.html": [],
+  "node_modules/@unhead/dom/dist/index.mjs": [],
+  "node_modules/@unhead/shared/dist/index.mjs": [],
+  "node_modules/@unhead/vue/dist/shared/vue.f49591ad.mjs": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/hookable/dist/index.mjs": [],
+  "node_modules/unhead/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.579feabb.mjs": [],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [],
+  "node_modules/vue-router/dist/vue-router.mjs": [],
+  "src/App.vue": [],
+  "src/App.vue?vue&type=style&index=0&scoped=280ea588&lang.css": [],
+  "src/assets/main.css": [],
+  "src/components/Brands.vue": [
+    "/assets/HomeView-BHCyREEY.js",
+    "/assets/HomeView-BSLxYgoQ.css"
+  ],
+  "src/components/FlipCard.vue": [
+    "/assets/HomeView-BHCyREEY.js",
+    "/assets/HomeView-BSLxYgoQ.css"
+  ],
+  "src/components/FlipCard.vue?vue&type=style&index=0&scoped=67fcb0ae&lang.css": [
+    "/assets/HomeView-BHCyREEY.js",
+    "/assets/HomeView-BSLxYgoQ.css"
+  ],
+  "src/components/Foot.vue": [],
+  "src/components/Nav.vue": [],
+  "src/components/Nav.vue?vue&type=style&index=0&scoped=bb318937&lang.css": [],
+  "src/components/icons/CarAll.vue": [
+    "/assets/HomeView-BHCyREEY.js",
+    "/assets/HomeView-BSLxYgoQ.css"
+  ],
+  "src/components/icons/CarQuality.vue": [
+    "/assets/HomeView-BHCyREEY.js",
+    "/assets/HomeView-BSLxYgoQ.css"
+  ],
+  "src/components/icons/CarTop.vue": [
+    "/assets/HomeView-BHCyREEY.js",
+    "/assets/HomeView-BSLxYgoQ.css"
+  ],
+  "src/constants.js": [],
+  "src/main.js": [],
+  "src/router/index.js": [],
+  "src/views/AboutView.vue": [
+    "/assets/AboutView-BmHyMOQl.js",
+    "/assets/AboutView-CSIvawM9.css"
+  ],
+  "src/views/AboutView.vue?vue&type=style&index=0&lang.css": [
+    "/assets/AboutView-BmHyMOQl.js",
+    "/assets/AboutView-CSIvawM9.css"
+  ],
+  "src/views/HomeView.vue": [
+    "/assets/HomeView-BHCyREEY.js",
+    "/assets/HomeView-BSLxYgoQ.css"
+  ]
+}
