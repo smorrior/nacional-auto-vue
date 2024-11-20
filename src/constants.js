@@ -3,7 +3,7 @@ export const JAPANESE_BRANDS = [
     id: 1,
     name: 'Toyota',
     altName: 'toyota',
-    imgSrc: '/images/logos/toyota.png',
+    imgSrc: '/nacional-auto-vue/images/logos/toyota.png',
     link: '/servis-japanskih-vozila/toyota',
     alt: "Toyota car logo - Nacional Auto"
   },
@@ -11,7 +11,7 @@ export const JAPANESE_BRANDS = [
     id: 2,
     name: 'Honda',
     altName: 'honda',
-    imgSrc: '/images/logos/honda.png',
+    imgSrc: '/nacional-auto-vue/images/logos/honda.png',
     link: '/servis-japanskih-vozila/honda',
     alt: "Honda car logo - Nacional Auto"
   },
@@ -19,7 +19,7 @@ export const JAPANESE_BRANDS = [
     id: 3,
     name: 'Mazda',
     altName: 'mazda',
-    imgSrc: '/images/logos/mazda.png',
+    imgSrc: '/nacional-auto-vue/images/logos/mazda.png',
     link: '/servis-japanskih-vozila/mazda',
     alt: "Mazda car logo - Nacional Auto"
   },
@@ -27,7 +27,7 @@ export const JAPANESE_BRANDS = [
     id: 4,
     name: 'Nissan',
     altName: 'nissan',
-    imgSrc: '/images/logos/nissan.png',
+    imgSrc: '/nacional-auto-vue/images/logos/nissan.png',
     link: '/servis-japanskih-vozila/nissan',
     alt: "Nissan car logo - Nacional Auto"
   },
@@ -35,7 +35,7 @@ export const JAPANESE_BRANDS = [
     id: 5,
     name: 'Mitsubishi',
     altName: 'mitsubishi',
-    imgSrc: '/images/logos/mitsubishi.png',
+    imgSrc: '/nacional-auto-vue/images/logos/mitsubishi.png',
     link: '/servis-japanskih-vozila/mitsubishi',
     alt: "Mitsubishi car logo - Nacional Auto"
   },
@@ -43,7 +43,7 @@ export const JAPANESE_BRANDS = [
     id: 6,
     name: 'Suzuki',
     altName: 'suzuki',
-    imgSrc: '/images/logos/suzuki.png',
+    imgSrc: '/nacional-auto-vue/images/logos/suzuki.png',
     link: '/servis-japanskih-vozila/suzuki',
     alt: "Suzuki car logo - Nacional Auto"
   },
@@ -51,7 +51,7 @@ export const JAPANESE_BRANDS = [
     id: 7,
     name: 'Subaru',
     altName: 'subaru',
-    imgSrc: '/images/logos/subaru.png',
+    imgSrc: '/nacional-auto-vue/images/logos/subaru.png',
     link: '/servis-japanskih-vozila/subaru',
     alt: "Subaru car logo - Nacional Auto"
   },
@@ -59,7 +59,7 @@ export const JAPANESE_BRANDS = [
     id: 8,
     name: 'Daihatsu',
     altName: 'daihatsu',
-    imgSrc: '/images/logos/daihatsu.png',
+    imgSrc: '/nacional-auto-vue/images/logos/daihatsu.png',
     link: '/servis-japanskih-vozila/daihatsu',
     alt: "Daihatsu car logo - Nacional Auto"
   },
@@ -67,7 +67,7 @@ export const JAPANESE_BRANDS = [
     id: 9,
     name: 'Isuzu',
     altName: 'isuzu',
-    imgSrc: '/images/logos/isuzu.png',
+    imgSrc: '/nacional-auto-vue/images/logos/isuzu.png',
     link: '/servis-japanskih-vozila/isuzu',
     alt: "Isuzu car logo - Nacional Auto"
   },
@@ -78,7 +78,7 @@ export const KOREAN_BRANDS = [
     id: 1,
     name: 'Hyundai',
     altName: 'hyundai',
-    imgSrc: '/images/logos/hyundai.png',
+    imgSrc: '/nacional-auto-vue/images/logos/hyundai.png',
     link: '/servis-korejskih-vozila/hyundai',
     alt: "Hyundai car logo - Nacional Auto"
   },
@@ -86,7 +86,7 @@ export const KOREAN_BRANDS = [
     id: 2,
     name: 'Kia',
     altName: 'kia',
-    imgSrc: '/images/logos/kia.png',
+    imgSrc: '/nacional-auto-vue/images/logos/kia.png',
     link: '/servis-korejskih-vozila/kia',
     alt: "Kia car logo - Nacional Auto"
   },
@@ -94,7 +94,7 @@ export const KOREAN_BRANDS = [
     id: 3,
     name: 'Chevrolet / Daewoo',
     altName: 'chevrolet',
-    imgSrc: '/images/logos/chevrolet.png',
+    imgSrc: '/nacional-auto-vue/images/logos/chevrolet.png',
     link: '/servis-korejskih-vozila/chevrolet',
     alt: "Chevrolet car logo - Nacional Auto"
   }
