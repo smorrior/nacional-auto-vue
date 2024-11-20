@@ -19,7 +19,7 @@ const scrollToTarget = (item) => {
     <img src="/images/engine2.jpg" alt="Nacional Auto" class="absolute inset-0 w-full h-full object-cover z-0" />
     <div class="relative center justify-center xl:pb-16 xl:px-0 pb-6 px-4 z-10">
       <h1 class="h1-text md:w-2/3">
-        AUTO CENTAR ZA JAPANSKA I KOREJSKA VOZILA
+        AUTO CENTAR ZA JAPANSKA I KOREJSKA VOZILA test
       </h1>
       <h4 class="h4-hero-text md:w-2/3">
         Servis, veleprodaja i maloprodaja delova.
