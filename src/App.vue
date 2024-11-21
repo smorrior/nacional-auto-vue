@@ -6,6 +6,7 @@ import Nav from './components/Nav.vue'
 <template>
   <main class="w-full h-full">
     <Nav />
+    tuki
     <RouterView />
     <Foot />
   </main>
